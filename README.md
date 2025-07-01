@@ -1,6 +1,6 @@
 
 ---
- "Priyadarshini Portfolio"
+ **Priyadarshini Portfolio**
 
 ---
 
@@ -60,5 +60,4 @@ Currently exploring deep learning and contributing to open-source and learning S
 
 - 📧 Gmail: priyadarshiniraju2002@gmail.com.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/priyadarshini-r-b62751274/)  
-
 - 📧Phone no: 6374144514
